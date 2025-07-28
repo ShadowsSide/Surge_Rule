@@ -1,4 +1,2 @@
 # SSH
 DEST-PORT, 22
-PROCESS-NAME, Termius Helper (Renderer)
-PROCESS-NAME, FinalShell
